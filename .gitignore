@@ -3,4 +3,3 @@ dist/
 docs/.observablehq/cache/
 node_modules/
 yarn-error.log
-docs/run_ww_2020_w.csv
