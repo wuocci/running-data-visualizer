@@ -1,6 +1,6 @@
 # Running data
 
-Course projext for data visualization course
+Course project for data visualization course
 
 This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
 
